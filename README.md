@@ -23,4 +23,4 @@ Week 1: Environment setup, tool introduction
 Week 2: Hands-on with Wireshark & Nmap  
 Week 3: Burp Suite practice  
 Week 4: Splunk dashboards  
-(You will keep updating this as you learn)
+
